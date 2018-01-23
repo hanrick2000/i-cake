@@ -2,11 +2,11 @@
 
 ## Basics
 - [Big O](glossary-notes/big-o.md)
-
-
-# TODO
 - [Logarithms](glossary-notes/logarithms.md)
 - [Triangular Series](glossary-notes/triangular-series.md)
+
+# TODO
+
 
 ## Searching and Sorting
 - [Binary Search](glossary-notes/binary-search.md)
