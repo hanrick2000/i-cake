@@ -7,3 +7,5 @@
 3. Repeat by starting in the middle of the new halves each time until the number is found or the entire set has been searched
 
 Can be done recursively or iteratively
+
+NOTE: The input array MUST be sorted already
