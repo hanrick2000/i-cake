@@ -5,7 +5,6 @@
 - [Logarithms](glossary-notes/logarithms.md)
 - [Triangular Series](glossary-notes/triangular-series.md)
 
-
 ## Searching and Sorting
 - [Binary Search](glossary-notes/binary-search.md)
 - [Breadth-First Search](glossary-notes/breadth-first-search.md)
