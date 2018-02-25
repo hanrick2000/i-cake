@@ -1,5 +1,7 @@
 # Data Structures Overview
 
+# Random Access Memory
+
 **RAM** = random access memory = working memory where variables are stored
   - each area of memory has an address associated with it
   - each area of memory can store 8 bits (1 byte) of info
@@ -20,3 +22,22 @@ read RAM is kept.  (actually a series of caches)
 out to the RAM
 - When the processor looks up a specific address in memory, the memory controller
 also returns nearby memory and the processor caches it
+- reading from sequential memory address is faster than skipping around
+
+# Binary Numbers
+
+# Fixed-Width Integers
+
+# Arrays
+
+# Strings
+
+# Pointers
+
+# Dynamic Arrays
+
+# Linked Lists
+
+# Hash Tables
+
+# Summary
