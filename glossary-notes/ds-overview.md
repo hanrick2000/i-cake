@@ -31,6 +31,10 @@ also returns nearby memory and the processor caches it
 # Arrays
 
 # Strings
+**strings** = series of characters
+
+Arrays can store characters instead of numbers via encoding.  Strings are arrays
+of 8-bit characters
 
 # Pointers
 
