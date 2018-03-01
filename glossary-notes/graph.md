@@ -39,7 +39,7 @@ List where the index represents the node and the value of the index is a list of
     [1],
     [0, 2, 3],
     [1, 3],
-    [1, 2],
+    [1, 2]
 ]
 ```
 
@@ -51,6 +51,6 @@ A matrix of 0s and 1s to indicate whether two nodes are connected
     [0, 1, 0, 0],
     [1, 0, 1, 1],
     [0, 1, 0, 1],
-    [0, 1, 1, 0],
+    [0, 1, 1, 0]
 ]
 ```
